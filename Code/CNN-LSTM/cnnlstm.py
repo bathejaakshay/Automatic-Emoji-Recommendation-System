@@ -270,7 +270,7 @@ class cnn_lstm:
 
         returns the set if atleast one of the emojis in set is in emoji_set 
         '''
-        if any(x in self.emoji_extract_sentset for x in label):
+        if any(x in self.emoji_set for x in label):
             return label
         else:
             return None
