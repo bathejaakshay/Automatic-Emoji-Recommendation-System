@@ -85,7 +85,7 @@ To execute Logistic Regression :
 
 =============================================
 
-Stems to get UI Working:
+Steps to get UI Working:
 
 1. Download model and required folders from following link:
 
