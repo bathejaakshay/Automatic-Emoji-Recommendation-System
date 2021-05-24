@@ -1,0 +1,7 @@
+emoji==0.6.0
+pandas==1.1.0
+Keras==2.4.3
+nltk==3.5
+tensorflow==2.5.0
+numpy==1.18.5
+scikit_learn==0.23.2

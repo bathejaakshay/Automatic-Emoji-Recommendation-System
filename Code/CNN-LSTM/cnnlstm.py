@@ -497,7 +497,7 @@ class cnn_lstm_run:
 
         #compiling and training the model 
         model.compile(optimizer='adam', loss='binary_crossentropy', metrics = ['accuracy'])
-        model.fit(X_train, y_train, epochs = 1, validation_data=(X_test, y_test), batch_size = 64)
+        model.fit(X_train, y_train, epochs = 2, validation_data=(X_test, y_test), batch_size = 64)
 
         #finding predictions with threshold 0.2
         y_hat_t = model.predict(X_test)
