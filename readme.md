@@ -24,7 +24,7 @@ To recommend emojis based on the sentiment of the tweet text.
 
 **Steps to execute the project:**
 
-*To execute CNN :
+**To execute CNN:**
 ```
 1. Go to directory code/CNN:
 	
@@ -42,7 +42,7 @@ To recommend emojis based on the sentiment of the tweet text.
 5. At the end it will ask for the input of the sentence for testing of the system. Just enter a sentence and it will output the recommended emojis for the input sentence.
 ```
 
-*To execute CNN-LSTM :
+**To execute CNN-LSTM:**
 
 ```
 1. Go to directory code/CNN:
@@ -61,7 +61,7 @@ To recommend emojis based on the sentiment of the tweet text.
 5. At the end it will ask for the input of the sentence for testing of the system. Just enter a sentence and it will output the recommended emojis for the input sentence.
 ```
 
-*To execute Logistic Regression :
+**To execute Logistic Regression:**
 ```
 1. Go to directory code/CNN:
 	
